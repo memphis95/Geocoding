@@ -1,6 +1,6 @@
 # Comparision of Open Source Geocoding APIs
 
-Geocoding is the process of transforming a description of a location—such as an address, or a name of a place—to a location on the earth's surface i.e. a (latitude, longitude) coordinate. It is used extensively in GIS, geotagging media, cartography, customer data management etc.
+Geocoding is the process of transforming a description of a locationâ€”such as an address, or a name of a placeâ€”to a location on the earth's surface i.e. a (latitude, longitude) coordinate. It is used extensively in GIS, geotagging media, cartography, customer data management etc.
 
 Geocoding is highly prone to error for various reasons, including lack of coverage (local vs. global); lack of complete, correct, consistent, and updated reference databases; and the making of inappropriate assumptions. All these may affect match rate and positional accuracy. Additionally, incorrect geocoding may bias the results of spatial analysis, resulting in misclassification of actual physical locations that may adversely affect research outcomes or location-based business decisions. Accordingly, understanding and addressing these geocoding challenges is vital.
 
@@ -25,7 +25,7 @@ A python IDE like Spyder is suitable to run the scripts as libraries are pre-ins
 * **Ankit Goel** - [USERNAME](PROFILE LINK)
 * **Shruti Sahu** - [USERNAME](PROFILE LINK)
 
-## Acknowledgments
+## Reference
 
 * https://gist.github.com/shanealynn/033c8a3cacdba8ce03cbe116225ced31
 * https://stackoverflow.com/questions/4913349/haversine-formula-in-python-bearing-and-distance-between-two-gps-points/4913653#4913653
