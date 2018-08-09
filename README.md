@@ -23,7 +23,7 @@ A python IDE like Spyder is suitable to run the scripts as libraries are pre-ins
 ## Authors
 
 * **Ankit Goel** - [memphis95](https://github.com/memphis95)
-* **Shruti Sahu** - [USERNAME](PROFILE LINK)
+* **Shruti Sahu** - [whinyteen96](https://github.com/whinyteen96)
 
 ## Reference
 
